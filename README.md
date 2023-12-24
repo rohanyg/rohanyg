@@ -1,3 +1,9 @@
-# Hello, I'm Rohan! 👋
-- I am proficient in tools such as SQL, Power BI, Excel, Python and Tableau. I am curious to uncover the valuable insights from datasets to solve business problems.I am dedicated to extracting, cleaning and analyzing datasets. I am excited to contribute to data-driven decision-making.
-- Currently, I am seeking opportunities with esteemed organizations where I can utilize my skills to learn and grow in the field of work and contribute to data-driven decision-making. I am confident that my skills and experience will add value to your organization. 🚀
+<h1 align="center">Hi 👋, I'm Rohan Yogesh Gowdar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
